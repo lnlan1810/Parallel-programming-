@@ -1,0 +1,3 @@
+﻿  HelloMPI.cpp
+C:\Users\SURFACE\source\repos\HelloMPI\HelloMPI\HelloMPI.cpp(28,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HelloMPI.vcxproj -> C:\Users\SURFACE\source\repos\HelloMPI\x64\Debug\HelloMPI.exe
